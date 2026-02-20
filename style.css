@@ -75,6 +75,8 @@ nav a:hover {
 
 .hero button:hover {
   background: white;
+  transform: translateY(-4px);
+  transition: all 1s;
 }
 
 /* Sections */
